@@ -1,0 +1,30 @@
+name: Deploy site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Git checkout 
+      uses: actions/checkout@v4
+      with:
+        submodules: true
+        fetch-depth: 0
+    
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+    
+    - name: Build
+      env:
+        TZ: 'Europe/Berlin'
+      run: hugo --minify
+
+    - name: "Deploy to GitHub Pages"
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
