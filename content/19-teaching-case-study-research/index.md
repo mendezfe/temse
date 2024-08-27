@@ -34,5 +34,5 @@ Case study research is an important research method in software engineering. Yet
     alt="licensed under CC BY-SA 4.0"
     caption="Material licensed under CC BY-SA 4.0"
     nozoom=true
-    href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    href="https://creativecommons.org/licenses/by-sa/4.0/deed"
 >}}

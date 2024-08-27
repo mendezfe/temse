@@ -31,5 +31,5 @@ Survey instrument to evaluate best practices in Design Science that can be used 
     alt="licensed under CC BY-SA 4.0"
     caption="Material licensed under CC BY-SA 4.0"
     nozoom=true
-    href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    href="https://creativecommons.org/licenses/by-sa/4.0/deed"
 >}}

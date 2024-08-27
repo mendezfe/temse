@@ -34,5 +34,5 @@ For more information, please see the README file in the .zip archive.
     alt="licensed under CC BY-SA 4.0"
     caption="Material licensed under CC BY-SA 4.0"
     nozoom=true
-    href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    href="https://creativecommons.org/licenses/by-sa/4.0/deed"
 >}}
