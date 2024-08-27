@@ -1,0 +1,9 @@
+[[footer]]
+    name = "About the book"
+    pageRef = "about"
+    weight = 10
+
+[[footer]]
+    name = "The Authors"
+    pageRef = "authors"
+    weight = 20
