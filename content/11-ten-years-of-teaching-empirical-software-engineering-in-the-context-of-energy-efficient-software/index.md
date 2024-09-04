@@ -6,9 +6,10 @@ authors:
     - Vincenzo Stoico
     - Patricia Lago
 type: "part-3"
-tag:
+tags:
     - slides
     - assignments
+    - readings
 weight: 11
 ---
 
