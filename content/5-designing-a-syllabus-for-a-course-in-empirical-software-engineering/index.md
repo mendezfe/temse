@@ -23,15 +23,25 @@ This chapter attempts to support educators in the first and most crucial step in
 
 ## Materials
 
-### Syllabus with 7.5 ECTS
+### General Course Setup with Assignments and Logistics (RUG)
+
+{{< button href="materials/Course Setup.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+
+### Exemplary Course Assignments (RUG)
+
+{{< button href="materials/Course Assignment.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+
+### Syllabus with 7.5 ECTS (BTH)
 
 {{< button href="materials/PA2554 - MSc RM course syllabus.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-### Syllabus with 19 ECTS
+### Syllabus with 19 ECTS (BTH)
 
 {{< button href="materials/PA2592 - Research Methods and Master Thesis in Software Engineering for Professionals.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-### Syllabus for Course at PhD level with 6 ECTS
+### Syllabus for Course at PhD level with 6 ECTS (BTH)
 
 {{< button href="materials/PhD course on research methods syllabus.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
