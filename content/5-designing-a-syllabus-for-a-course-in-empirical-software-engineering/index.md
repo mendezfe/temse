@@ -27,11 +27,9 @@ This chapter attempts to support educators in the first and most crucial step in
 
 {{< button href="materials/Course Setup.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-
 ### Exemplary Course Assignments (RUG)
 
-{{< button href="materials/Course Assignment.pdf" target="_blank" >}}Download .pdf{{< /button >}}
-
+{{< button href="materials/Course Assignments.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 ### Syllabus with 7.5 ECTS (BTH)
 
