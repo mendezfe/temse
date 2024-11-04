@@ -32,65 +32,85 @@ where students exchange ideas, help each other, and learn how to collaboratively
 
 #### Introduction
 
-{{< button href="materials/lectures/[01 - A] Introduction.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[01 - A] Introduction.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Empirical Software Engineering
+#### Green IT
 
-{{< button href="materials/lectures/[01 - B] Empirical software engineering.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[01 - B] Green IT.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### The Experimental Process
+#### Design and Development of Green Software
 
-{{< button href="materials/lectures/[02 - A] The experimental process.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/Design_and_Develop_Green_Software.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Scoping
+#### The experimental process
 
-{{< button href="materials/lectures/[02 - B] Experiment Scoping.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[03 - A] The experimental process.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Design and Develop Green Software
+#### Experiment scoping
 
-{{< button href="materials/lectures/[03] Design and Develop Green Software.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[03 - B] Experiment scoping.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Planning
+#### Experiment validity - Construct validity
 
-{{< button href="materials/lectures/[04 - A] Experiment planning.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[03 - C] Experiment validity - Construct validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Measurement Theory Basics
+#### Experiment planning
 
-{{< button href="materials/lectures/[04 - B] Measurement theory basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[04 - A] Experiment planning.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Design Basics
+#### Measurement theory basics
 
-{{< button href="materials/lectures/[05 - A] Experiment design - basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[04 - B] Measurement theory basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Design Advanced
+#### Experiment validity - External validity
 
-{{< button href="materials/lectures/[05 - B] Experiment design - advanced.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[04 - C] Experiment validity - External validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+#### Experiment design - basics
+
+{{< button href="materials/lecture-slides/[05 - A] Experiment design - basics.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+#### Experiment design - advanced
+
+{{< button href="materials/lecture-slides/[05 - B] Experiment design - advanced.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+#### Experiment validity - Internal validity
+
+{{< button href="materials/lecture-slides/[05 - C] Experiment validity - Internal validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Data Analysis
 
-{{< button href="materials/lectures/[06 - A] Data Analysis.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[06 - A] Data Analysis.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
 #### Hypothesis Testing
 
-{{< button href="materials/lectures/[06 - B] Hypothesis Testing.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[06 - B] Hypothesis Testing.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Statistical Tests and Effect Size
+#### Experiment validity - Conclusion validity
 
-{{< button href="materials/lectures/[06] Statistical tests and effect size.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[06 - C] Experiment validity - Conclusion validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Validity
+#### Statistical tests and effect size
 
-{{< button href="materials/lectures/[08 - A] Experiment validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[07] Statistical tests and effect size.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Experiment Reporting
+#### Data visualization
 
-{{< button href="materials/lectures/[08 - B] Experiment reporting.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[08 - A] Data visualization.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Lab
+#### Experiment reporting
 
-{{< button href="materials/lectures/Lab_1.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+{{< button href="materials/lecture-slides/[08 - B] Experiment reporting.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Project Tracks
+#### Software Carbon Intensity
+
+{{< button href="materials/lecture-slides/[09 - A] Software Carbon Intensity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+#### Q&A
+
+{{< button href="materials/lecture-slides/[09 - B] Q&A.pdf" target="_blank" >}}Download .pdf{{< /button >}}
+
+### Project Tracks
 
 {{< button href="materials/lectures/Project tracks.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
