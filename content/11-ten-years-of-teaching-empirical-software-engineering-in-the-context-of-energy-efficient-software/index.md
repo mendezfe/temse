@@ -78,11 +78,11 @@ where students exchange ideas, help each other, and learn how to collaboratively
 
 {{< button href="materials/lecture-slides/[05 - C] Experiment validity - Internal validity.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Data Analysis
+#### Data analysis
 
 {{< button href="materials/lecture-slides/[06 - A] Data Analysis.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
-#### Hypothesis Testing
+#### Hypothesis testing
 
 {{< button href="materials/lecture-slides/[06 - B] Hypothesis Testing.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
