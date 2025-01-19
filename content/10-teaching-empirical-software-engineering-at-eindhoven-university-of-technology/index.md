@@ -99,6 +99,22 @@ The slides of (some) of the lectures.
 
 {{< button href="materials/slides/12-Threats.pdf" target="_blank" >}}Download .pdf{{< /button >}}
 
+### Recordings
+
+| Lecture | Recordings |
+| -------- | ------- |
+| Introduction to Empiricism and Rationalism | [Part 1](https://tue.video.yuja.com/V/Video?v=662559&node=3161351&a=417066374&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=663057&node=3161862&a=1347948157&autoplay=1) |
+| Research Questions and Strategies | [Part 1](https://tue.video.yuja.com/V/Video?v=661890&node=3160584&a=793084937&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=661609&node=3160234&a=250493448&autoplay=1) |
+| Design Science | [Part 1]( https://tue.video.yuja.com/V/Video?v=661569&node=3160193&a=505659676&autoplay=1) |
+| Sampling | [Part 1](https://tue.video.yuja.com/V/Video?v=661213&node=3159690&a=1756857056&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=662562&node=3161354&a=638018358&autoplay=1) |
+| Interviews & Surveys | [Part 1](https://tue.video.yuja.com/V/Video?v=661979&node=3160750&a=358397994&autoplay=1), [Part 2]( https://tue.video.yuja.com/V/Video?v=662838&node=3161641&a=569684313&autoplay=1) |
+| Mining Software Repositories | [Part 1](https://tue.video.yuja.com/V/Video?v=661594&node=3160219&a=1508835630&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=663211&node=3162039&a=539166403&autoplay=1) |
+| Quantitative Analysis | [Part 1](https://tue.video.yuja.com/V/Video?v=663126&node=3161946&a=793495077&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=661244&node=3159730&a=1510167534&autoplay=1) |
+| Qualitative Analysis | [Part 1](https://tue.video.yuja.com/V/Video?v=663371&node=3162204&a=1504047604&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=661362&node=3159912&a=1820655334&autoplay=1)|
+| Advanced Repository Mining | [Part1](https://tue.video.yuja.com/V/Video?v=661466&node=3160056&a=941133159&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=662366&node=3161149&a=1875364774&autoplay=1) |
+| Threats to Validity | [Part 1](https://tue.video.yuja.com/V/Video?v=732411&node=3593477&a=134384075&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=732414&node=3593487&a=353196083&autoplay=1) |
+
+
 ### Licensing
 
 {{< figure
