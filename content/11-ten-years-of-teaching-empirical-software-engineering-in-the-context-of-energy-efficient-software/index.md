@@ -24,7 +24,7 @@ own experiment for achieving the goal. Each team goes over the classic steps of 
 Over the years, the course became well-known within the Software Engineering community since it led to several scientific studies that have been published at various scientific conferences and journals. Also, students execute their experiments using open-source tools, which are developed and maintained by researchers and other students within the program, thus creating a virtuous community of learners
 where students exchange ideas, help each other, and learn how to collaboratively contribute to open-source projects in a safe environment.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
+{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2407.05689" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
 
 ## Materials
 
