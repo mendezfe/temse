@@ -154,6 +154,7 @@ The following is a list of recommended readings for students providing additiona
 - Gopen, George D., and Judith A. Swan. "The science of scientific writing." American scientist 78, no. 6 (1990)
 
 #### Energy Efficiency
+
 - Biørn-Hansen, Andreas, Tor-Morten Grønli, and Gheorghita Ghinea. "A survey and taxonomy of core concepts and research challenges in cross-platform mobile development." ACM Computing Surveys (CSUR) 51, no. 5 (2018): 1-34.
 - Pinto, Gustavo, and Fernando Castor. "Energy efficiency: a new concern for application software developers." Communications of the ACM 60, no. 12 (2017): 68-75.
 - Grønli, Tor-Morten, Andreas Biørn-Hansen, and Tim A. Majchrzak. "Software development for mobile computing, the internet of things and wearable devices: Inspecting the past to understand the future." (2019).
@@ -177,10 +178,12 @@ The following is a list of recommended readings for students providing additiona
 - Linares-Vásquez, Mario, Gabriele Bavota, Carlos Bernal-Cárdenas, Rocco Oliveto, Massimiliano Di Penta, and Denys Poshyvanyk. "Mining energy-greedy api usage patterns in android apps: an empirical study." In Proceedings of the 11th working conference on mining software repositories, pp. 2-11. 2014.
 
 #### Programming Books
+
 - Lutz, Mark. Learning python: Powerful object-oriented programming. "O'Reilly Media, Inc.", 2013.
 - Albing, Carl, J. P. Vossen, and Cameron Newham. bash Cookbook: Solutions and Examples for bash Users. " O'Reilly Media, Inc.", 2007.
 
 #### Statistics
+
 - McElreath, Richard. Statistical rethinking: A Bayesian course with examples in R and Stan. Chapman and Hall/CRC, 2018.
 - Wasserman, Larry. All of statistics: a concise course in statistical inference. Springer Science & Business Media, 2013.
 - Kruschke, John K. "Bayesian data analysis." Wiley Interdisciplinary Reviews: Cognitive Science 1, no. 5 (2010): 658-676.

@@ -114,7 +114,6 @@ The slides of (some) of the lectures.
 | Advanced Repository Mining | [Part1](https://tue.video.yuja.com/V/Video?v=661466&node=3160056&a=941133159&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=662366&node=3161149&a=1875364774&autoplay=1) |
 | Threats to Validity | [Part 1](https://tue.video.yuja.com/V/Video?v=732411&node=3593477&a=134384075&autoplay=1), [Part 2](https://tue.video.yuja.com/V/Video?v=732414&node=3593487&a=353196083&autoplay=1) |
 
-
 ### Licensing
 
 {{< figure

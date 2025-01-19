@@ -19,8 +19,6 @@ The chapter supports educators and postgraduate students in understanding the ro
 
 {{< button href="https://link.springer.com/book/9783031717680#about-this-book">}}Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2501.04798" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
 
-
-
 ## Materials
 
 ### Slides
