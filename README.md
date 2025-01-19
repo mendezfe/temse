@@ -1,5 +1,7 @@
 # Teaching Empirical Research Methods in Software Engineering
 
+Hugo sources for the website [emse.education](https://www.emse.education) 
+
 ## Build and Run
 
 Prerequisite: [install Hugo](https://gohugo.io/installation/).
