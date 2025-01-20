@@ -17,7 +17,7 @@ With the objectives to (1) prepare students as agents of change that master the 
 
 The chapter discusses aspects related to didactics and pedagogy and show how to tie the ABC of Software Engineering research in synergistically with the sustainability competencies framework and position the work within the leverage points for sustainability. It concludes with recommendations and take-aways for best practices as well as teaching materials and reflections on ethics.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
+{{< button href="https://link.springer.com/chapter/10.1007/978-3-031-71769-7_10" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
 
 ## Materials
 

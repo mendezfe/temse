@@ -19,7 +19,7 @@ Increasingly, courses on Empirical Software Engineering research methods are bei
 
 This chapter attempts to support educators in the first and most crucial step in their course design: creating the syllabus. It does so by consolidating the collective experience of the authors as well as of members of the  Empirical Software Engineering community; the latter was mined through two working sessions and an online survey. Specifically, it offers a list of the fundamental building blocks for a syllabus, namely course aims, course topics, and practical assignments. The course topics are also linked to the subsequent chapters of this book, so that readers can dig deeper into those chapters and get support on teaching specific research methods or cross-cutting topics. Finally, we guide educators on how to take these building blocks as a starting point and consider a number of relevant aspects to design a syllabus to meet the needs of their own program, students, and curriculum.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
+{{< button href="https://link.springer.com/chapter/10.1007/978-3-031-71769-7_2" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}}
 
 ## Materials
 

@@ -16,7 +16,7 @@ weight: 12
 
 The pervasive role played by software in virtually all industries has fostered ever-increasing development of applied research in software engineering. In this chapter, we contribute our experience in using the V-Model as a framework for teaching how to conduct applied research in empirical software engineering. The foundational idea of using the V-Model is presented, and guidance for using it to frame the research is provided. Furthermore, we show how the framework has been instantiated throughout nearly two decades of PhD theses done at the University of Kaiserslautern (RPTU Kaiserslautern) in partnership with Fraunhofer IESE, including the most frequent usage patterns, how the different empirical methods fit into the framework, and the lessons we have learned from this experience.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2407.04563" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
+{{< button href="https://link.springer.com/chapter/10.1007/978-3-031-71769-7_9" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2407.04563" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
 
 ## Materials
 

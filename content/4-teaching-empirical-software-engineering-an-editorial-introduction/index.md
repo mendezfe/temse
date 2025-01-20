@@ -19,7 +19,7 @@ Empirical Software Engineering has received much attention in recent years and b
 
 In the following editorial introduction, we, the editors, set the foundation by laying out the larger context of the discipline for a positioning of the remainder of this book.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2501.07195" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
+{{< button href="https://link.springer.com/chapter/10.1007/978-3-031-71769-7_1" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2501.07195" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
 
 ## Materials
 

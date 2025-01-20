@@ -16,7 +16,7 @@ weight: 10
 
 In this chapter, we share an experience report of teaching a master course on empirical research methods at Eindhoven University of Technology in the Netherlands. The course is taught for ten weeks to a mix of students from different study programs and combines both practical assignments with a closed-book exam. We discuss the challenges of teaching a course on research methods and explain how we address these challenges in the course design. Additionally, we share our lessons learned and the challenges we encountered over several iterations of teaching the course.
 
-{{< button href="https://link.springer.com/book/9783031717680" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2407.04657" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
+{{< button href="https://link.springer.com/chapter/10.1007/978-3-031-71769-7_7" target="_blank" rel="noopener noreferrer">}}Fulltext on Springer Link{{< /button >}} &nbsp; {{< button href="https://arxiv.org/abs/2407.04657" target="_blank" rel="noopener noreferrer">}}Fulltext on arXiv{{< /button >}}
 
 ## Materials
 
