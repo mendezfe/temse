@@ -1,6 +1,6 @@
 ---
-title: "A Course on Experimentation in Software Engineering: Focusing on Doing"
-description: 'Online material for the chapter "A Course on Experimentation in Software Engineering: Focusing on Doing"'
+title: "Teaching Mining Software Repositories"
+description: 'Online material for the chapter "Teaching Mining Software Repositories"'
 authors:
   - Zadia Codabux
   - Fatemeh Fard
