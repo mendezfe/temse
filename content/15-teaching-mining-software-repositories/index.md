@@ -9,8 +9,6 @@ authors:
   - Dario Di Nucci
   - Gilberto Recupito
 type: "part-4"
-tags:
-  - "slides"
 weight: 15
 date: 2024-07-01
 ---

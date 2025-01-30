@@ -4,8 +4,6 @@ description: 'Online material for the chapter "Qualitative Data Analysis in Soft
 authors:
   - Christoph Treude
 type: "part-2"
-tags:
-  - "slides"
 weight: 9
 date: 2024-07-01
 ---
